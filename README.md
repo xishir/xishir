@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm xishir 👋
 
-<!--
-**xishir/xishir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Security Developer | Indie Hacker**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate security developer and indie hacker who loves building, breaking, and learning new things in the world of tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills
+- **Python**
+- **Go**
+- **JavaScript**
+
+## 🌱 What I’m Up To
+- Always exploring new ways to secure and improve software.
+- Building indie projects—one side hustle at a time.
+
+## 🌐 Find Me Online
+- 🌍 Personal Website: [codemonster.cn](https://codemonster.cn)
+
+---
+
+> "Security is not a product, but a process."
+
+Thanks for visiting my profile! Feel free to check out my repos or connect with me.
